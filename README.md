@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Youtube Clone using React and MaterialUI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![youtube](https://github.com/Dond1D/youtube-clone/assets/109423101/c280de70-6ca6-48ce-9505-e764ca3e5c3e)
+
+
 
 ## Available Scripts
 
